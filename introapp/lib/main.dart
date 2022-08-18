@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
                 backgroundImage: AssetImage('images/naruto.png'),
               ),
               Text(
-                "Pradumn Porwal",
+                "NAME...",
                 style: TextStyle(
                   fontFamily: 'Anton',
                   fontSize: 50.0,
@@ -30,7 +30,7 @@ class MyApp extends StatelessWidget {
                 ),
               ),
               Text(
-                '                               ',
+                'SKILLS AND QUALIFICATIONS...',
                 //line gap  (learner)
                 style: TextStyle(
                   fontSize: 20.0,
@@ -40,8 +40,7 @@ class MyApp extends StatelessWidget {
                 ),
               ),
               Text(
-                'ANROID FLUTTER DEVELOPER'
-                ' & FRONT-END WEB DEVELOPER',
+                'CURRENTLY LEARNING...',
                 style: TextStyle(
                   fontSize: 20.0,
                   fontWeight: FontWeight.bold,
@@ -70,7 +69,7 @@ class MyApp extends StatelessWidget {
                     color: Colors.lightBlueAccent,
                   ),
                   title: Text(
-                    "+91 7222981631",
+                    "+91 XXXXXXXXXX",
                     style: TextStyle(
                       color: Colors.lightBlueAccent,
                       fontWeight: FontWeight.bold,
@@ -92,7 +91,7 @@ class MyApp extends StatelessWidget {
                     color: Colors.lightBlueAccent,
                   ),
                   title: Text(
-                    "pradumnporwal@gmail.com",
+                    "xyz@gmail.com",
                     style: TextStyle(
                       color: Colors.lightBlueAccent,
                       fontWeight: FontWeight.bold,
@@ -114,7 +113,7 @@ class MyApp extends StatelessWidget {
                     color: Colors.lightBlueAccent,
                   ),
                   title: Text(
-                    "pradumnporwal13(github)",
+                    "(github ACCOUNT)",
                     style: TextStyle(
                       color: Colors.lightBlueAccent,
                       fontWeight: FontWeight.bold,
@@ -136,7 +135,7 @@ class MyApp extends StatelessWidget {
                     color: Colors.lightBlueAccent,
                   ),
                   title: Text(
-                    "+91 7222981631",
+                    "+91 XXXXXXXXX",
                     style: TextStyle(
                       color: Colors.lightBlueAccent,
                       fontWeight: FontWeight.bold,
@@ -158,7 +157,7 @@ class MyApp extends StatelessWidget {
                     color: Colors.lightBlueAccent,
                   ),
                   title: Text(
-                    "_pradumn__",
+                    "FACEBOOK NAME",
                     style: TextStyle(
                       color: Colors.lightBlueAccent,
                       fontWeight: FontWeight.bold,
