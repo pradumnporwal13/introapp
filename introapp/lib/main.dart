@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
               Text(
                 "Pradumn Porwal",
                 style: TextStyle(
-                  fontFamily: 'Pacifico',
+                  fontFamily: 'Anton',
                   fontSize: 50.0,
                   fontWeight: FontWeight.bold,
                   letterSpacing: 2.0,
